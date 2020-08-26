@@ -11,6 +11,7 @@ class Particle{
     
         }
 
+        
     display(){
 
         var pos = this.body.position;
